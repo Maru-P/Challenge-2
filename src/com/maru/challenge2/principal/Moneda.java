@@ -7,7 +7,7 @@ public class Moneda{
     private String monedaBase;
     private String monedaDeCambio;
     public int valorIngresado;
-    private Float resultado;
+    private final Float resultado;
 
     public Moneda(CambioDeMoneda cambioDeMoneda, int valorIngresado) {
         this.monedaBase = cambioDeMoneda.base_code();
