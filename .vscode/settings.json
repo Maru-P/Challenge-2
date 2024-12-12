@@ -1,0 +1,8 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "src/lib/gson-2.11.0.jar"
+    ],
+    "editor.autoClosingComments": "always",
+    "editor.autoClosingBrackets": "always"
+}
