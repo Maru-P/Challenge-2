@@ -1,8 +1,13 @@
 <em> MoniPIA </em>
 
-##Índice
+![Static Badge](https://img.shields.io/badge/'finalizado'-black?style=social)
+![Static Badge](https://img.shields.io/badge/java-orange?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/base--de--datos-blue?style=for-the-badge)
 
-*[MoniPIA](#Título-e-imagen-de-portada)
+
+
+
+*[Índice](#índice)
 
 *[Descripción del proyecto](#descripción-del-proyecto)
 
@@ -16,4 +21,10 @@
 
 <!-- Convertidor de Monedas utilizando ExchangeRate API, como segundo Challenge en el curso de base de satos de AluraLatam -->
 
-<!-- Poner badges de insignia: finalizado, base de datos, java -->
+<!-- \## 📁 Acceso al proyecto
+
+**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+
+\## 🛠️ Abre y ejecuta el proyecto
+
+**Muestra las instrucciones necesarias para abrir y ejecutar el proyecto** -->
