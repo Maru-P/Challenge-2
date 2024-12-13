@@ -1,6 +1,7 @@
-<em> MoniPIA </em>
+<h1> MoniPIA </h1>
 
 ![Static Badge](https://img.shields.io/badge/'finalizado'-black?style=social)
+
 ![Static Badge](https://img.shields.io/badge/java-orange?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/base--de--datos-blue?style=for-the-badge)
 
