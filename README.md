@@ -1,31 +1,23 @@
-<h1> MoniPIA </h1>
+# MoniPIA
+
+![Static Badge](https://img.shields.io/badge/java-orange?style=for-the-badge) 
+![Static Badge](https://img.shields.io/badge/base--de--datos-blue?style=for-the-badge)
 
 ![Static Badge](https://img.shields.io/badge/'finalizado'-black?style=social)
 
-![Static Badge](https://img.shields.io/badge/java-orange?style=for-the-badge)
-![Static Badge](https://img.shields.io/badge/base--de--datos-blue?style=for-the-badge)
+## Índice
 
+- [Descripción del proyecto](#descripción-del-proyecto)
 
+- [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
+- [Acceso al proyecto](#acceso-proyecto)
 
-*[Índice](#índice)
+- [Tecnologías utilizadas](#tecnologías-utilizadas)
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+- [Conclusión](#conclusión)
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+# Descripción del proyecto
 
-*[Acceso al proyecto](#acceso-proyecto)
+**MoniPIA** es un convertidor de monedas que utiliza la API de [ExchangeRate API](https://www.exchangerate-api.com), es parte de la formación de Java y Spring Framework de [AluraLATAM](https://www.aluracursos.com) de la cual formo parte en el grupo **G7-ONE**.
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
-
-*[Conclusión](#conclusión)
-
-<!-- Convertidor de Monedas utilizando ExchangeRate API, como segundo Challenge en el curso de base de satos de AluraLatam -->
-
-<!-- \## 📁 Acceso al proyecto
-
-**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
-
-\## 🛠️ Abre y ejecuta el proyecto
-
-**Muestra las instrucciones necesarias para abrir y ejecutar el proyecto** -->
