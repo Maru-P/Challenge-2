@@ -9,9 +9,9 @@
 
 - [Descripción del proyecto](#descripción-del-proyecto)
 
-- [Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
+- [Características de la aplicación y demostración](#características-de-la-aplicación-y-demostración)
 
-- [Acceso al proyecto](#acceso-proyecto)
+- [Acceso al proyecto](#acceso-al-proyecto)
 
 - [Tecnologías utilizadas](#tecnologías-utilizadas)
 
@@ -28,7 +28,17 @@
 A continuación se dara un pequeño recorrido a la interfaz de MoniPIA:
   - ***lib***: Es la carpeta que contiene la libreria de [Gson](https://mvnrepository.com/artifact/com.google.code.gson/gson), que permite la recepción y transformación de datos json.
   -  ***src***:
-      - ***conversor***: 
+      - ***conversor***:
+        
+          -***CambioDeMoneda***: Record que recibe los datos utilizados del json.
+        
+          -***Conversor***:  Clase con un método **convierte** que recibe tres parametros (moneda1, moneda2, y monto) para convertir una cantidad de una moneda a otra utilizando la API. Se utilizan librerias de HTTP (HttpClient, HttpRequest, HttpResponse) y URI.
+        
       - ***principal***:
+        
+          -***Moneda***: Super Clase que contiene los atributos de la aplicación, implementa un contructor que usa los datos de **CambioDeMoneda** para realizar la conversión con los datos de Moneda. Y devuelve una cadena con los resultados.
+        
+          -***MoniPIA***: Contiene el menú interactivo con el usario en el que permite ingreso de enteros para elegir una opción e ingresar el monto a convertir según la opción anterior.
 
+# Acceso al proyecto
   
