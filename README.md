@@ -41,4 +41,6 @@ A continuación se dara un pequeño recorrido a la interfaz de MoniPIA:
           -***MoniPIA***: Contiene el menú interactivo con el usario en el que permite ingreso de enteros para elegir una opción e ingresar el monto a convertir según la opción anterior.
 
 # Acceso al proyecto
-  
+  + Para acceder al proyecto, descargue el archivo completo:
+
+  + Y luego acceda a la carpeta ***principal***-->***MoniPIA***:
